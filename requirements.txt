@@ -1,9 +1,10 @@
 ﻿python
-streamlit as st
-pandas as pd
+streamlit
+pandas
 scikit-learn
 joblib
 Pillow
+
 
 
 
