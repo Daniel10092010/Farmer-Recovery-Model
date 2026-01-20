@@ -1,7 +1,8 @@
 ﻿Python 3.130
-streamlit
-pandas
+streamlit as st
+pandas as pd
 scikit-learn
 joblib
 Pillow
+
 
