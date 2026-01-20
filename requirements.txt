@@ -1,9 +1,10 @@
-﻿python
+﻿python 3.13.0
 streamlit
 pandas
 scikit-learn
 joblib
 Pillow
+
 
 
 
