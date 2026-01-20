@@ -1,8 +1,9 @@
-﻿Python 3.130
+﻿"python"
 streamlit as st
 pandas as pd
 scikit-learn
 joblib
 Pillow
+
 
 
