@@ -1,0 +1,6 @@
+﻿Python 3.9+
+streamlit
+pandas
+scikit-learn
+joblib
+Pillow
